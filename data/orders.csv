@@ -1,0 +1,7 @@
+sku,name,quantity,reorder_level,warehouse
+A-001,键盘,5,3,上海
+B-002,鼠标,2,4,上海
+C-003,显示器,12,6,苏州
+D-004,USB-C 线,0,10,上海
+E-005, dock,7,2,苏州
+F-006,支架,1,1,上海
